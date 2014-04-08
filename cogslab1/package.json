@@ -14,7 +14,9 @@
     "passport-facebook": "*",
     "passport-twitter": "*",
     "superagent": "0.14.6",
-    "consolidate": "0.9.1"
+    "consolidate": "0.9.1",
+    "dotenv": "*",
+    "instagram-node-lib": "*"
   },
   "engines": {
   	"node": "0.10.x"
